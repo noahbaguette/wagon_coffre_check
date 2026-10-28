@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\ecole\\USB portable\\Algorithme logique et algo\\Github jsais pas\\wagon_coffre_check\\wagon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68B7C2C7-EE6D-4010-B9FB-56288F7782A7}|wagon.csproj|c:\\users\\admin\\onedrive\\ecole\\usb portable\\algorithme logique et algo\\github jsais pas\\wagon_coffre_check\\wagon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B7C2C7-EE6D-4010-B9FB-56288F7782A7}|wagon.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\ecole\\USB portable\\Algorithme logique et algo\\Github jsais pas\\wagon_coffre_check\\wagon\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\ecole\\USB portable\\Algorithme logique et algo\\Github jsais pas\\wagon_coffre_check\\wagon\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T09:50:31.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

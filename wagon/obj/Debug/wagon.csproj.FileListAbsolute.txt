@@ -1,0 +1,7 @@
+C:\Users\Admin\OneDrive\ecole\USB portable\Algorithme logique et algo\Github jsais pas\wagon_coffre_check\wagon\obj\Debug\wagon.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\ecole\USB portable\Algorithme logique et algo\Github jsais pas\wagon_coffre_check\wagon\obj\Debug\wagon.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\ecole\USB portable\Algorithme logique et algo\Github jsais pas\wagon_coffre_check\wagon\bin\Debug\wagon.exe.config
+C:\Users\Admin\OneDrive\ecole\USB portable\Algorithme logique et algo\Github jsais pas\wagon_coffre_check\wagon\bin\Debug\wagon.exe
+C:\Users\Admin\OneDrive\ecole\USB portable\Algorithme logique et algo\Github jsais pas\wagon_coffre_check\wagon\bin\Debug\wagon.pdb
+C:\Users\Admin\OneDrive\ecole\USB portable\Algorithme logique et algo\Github jsais pas\wagon_coffre_check\wagon\obj\Debug\wagon.exe
+C:\Users\Admin\OneDrive\ecole\USB portable\Algorithme logique et algo\Github jsais pas\wagon_coffre_check\wagon\obj\Debug\wagon.pdb
